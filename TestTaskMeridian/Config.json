@@ -1,0 +1,11 @@
+﻿{
+  "VerifiServerIp": "localhost:100",
+  "DataServersIp":   [
+    "localhost:1",
+    "localhost:2",
+    "localhost:3",
+    "localhost:4"
+  ],
+  "DataServiceName": "Data_Service",
+  "VerifyServiceName": "Verify_Service"
+}
